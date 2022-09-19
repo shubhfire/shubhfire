@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Niraj Pal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Shubham Singh</h1>
 <h3 align="center">I'm a passinate learner who's always willing to learn and work across technologies and domains .I Love to mexplore new
   technologies and leverage them to solve real-life problems. I'm currently into Web Development and working on my Data Structured and Algorithms.
 
@@ -11,11 +11,9 @@
 
 - 🌱 I’m currently learning **Full Stack Web-Development.**
 
-- 📝 I regularly write articles on [https://medium.com/@ppalniraj1996](https://medium.com/@ppalniraj1996)
-
 - 💬 Ask me about **HTML,CSS,JS,REACT**
 
-- 📫 How to reach me **ppalniraj1996@gmail.com**
+- 📫 How to reach me **singhshubham8585@gmail.com**
 
 - ⚡ Fun fact **I am Talktive.**
 
