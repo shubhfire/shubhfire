@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shubhfire.github.io/](https://shubhfire.github.io/)
 
-- 💬 Ask me about **HTML,CSS,JS,REACT**
+- 💬 Ask me about **HTML,CSS,JS,REACT,REDUX,MongoDB,EXPRESS,Nodejs**
 
 - 📫 How to reach me **singhshubham8585@gmail.com**
 
